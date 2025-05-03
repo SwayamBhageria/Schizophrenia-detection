@@ -73,17 +73,6 @@ Schizophrenia is a complex neuropsychiatric disorder. This project presents a pi
 
 
 
-## 🧩 Folder Structure
-
-```
-├── data/                # EEG spectrogram images
-├── preprocessing/       # Wavelet & Gabor transforms
-├── models/              # CNN-LSTM and VAE models
-├── notebooks/           # Jupyter notebooks for exploration
-├── results/             # Metrics, plots, and confusion matrices
-├── README.md
-└── requirements.txt
-```
 
 ---
 
